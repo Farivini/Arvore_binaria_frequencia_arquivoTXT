@@ -7,7 +7,7 @@ Arvore binaria conta a frequência de uma palavra em um arquivo txt
 Arvore binaria conta a frequência de uma palavra em um arquivo txt
 
 
-
+<img src="codigo rodando.png"/>
 
 
 
